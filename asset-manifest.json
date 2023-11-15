@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ninja-nakamoto-game/static/css/main.6b3899ac.css",
+    "main.js": "/ninja-nakamoto-game/static/js/main.c922f638.js",
+    "static/js/787.68cc0303.chunk.js": "/ninja-nakamoto-game/static/js/787.68cc0303.chunk.js",
+    "static/media/PressStart2P-Regular.ttf": "/ninja-nakamoto-game/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "static/media/background.png": "/ninja-nakamoto-game/static/media/background.3ed950731455d7715e89.png",
+    "static/media/shop.png": "/ninja-nakamoto-game/static/media/shop.c609dd4aae9185dfa3d1.png",
+    "static/media/Death.png": "/ninja-nakamoto-game/static/media/Death.2b3515119b862cc76655.png",
+    "static/media/Run.png": "/ninja-nakamoto-game/static/media/Run.066a893541826d62751f.png",
+    "index.html": "/ninja-nakamoto-game/index.html",
+    "main.6b3899ac.css.map": "/ninja-nakamoto-game/static/css/main.6b3899ac.css.map",
+    "main.c922f638.js.map": "/ninja-nakamoto-game/static/js/main.c922f638.js.map",
+    "787.68cc0303.chunk.js.map": "/ninja-nakamoto-game/static/js/787.68cc0303.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b3899ac.css",
+    "static/js/main.c922f638.js"
+  ]
+}
